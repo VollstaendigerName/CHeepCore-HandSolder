@@ -60,7 +60,7 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
 
 ## Mechanical Dimensions
 
-- **Width:** 29.489 mm  
+- **Width:** 32.004 mm  
 - **Height:** 18.288 mm  
 - Compatible with standard 2.54 mm breadboards  
 
