@@ -2,7 +2,7 @@
 CHeepCore in a variant with larger footprints and TSSOP package for easier hand soldering.
 A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 series. Designed for embedded hobbyists, students, and low-cost prototyping.
 
-<img src="https://github.com/VollstaendigerName/CHeepCore/blob/main/Images/Cheep.png" alt="CHeepCore Logo" width="300" height="300" />
+<img src="https://github.com/VollstaendigerName/CHeepCore-HandSolder/blob/main/Images/Cheep.png" alt="CHeepCore Logo" width="300" height="300" />
 
 ---
 
@@ -29,7 +29,7 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
 - SWD/JTAG programming connectors (3-pin & 10-pin, WCH-LinkE compatible)  
 - Breadboard-compatible PCB outline (18.288 × 32.004 mm)  
 
-<img src="https://github.com/VollstaendigerName/CHeepCore/blob/main/Images/Screenshot%202025-08-07%20172010.png" alt="CHeepCore front" width="400" height="300" />
+<img src="https://github.com/VollstaendigerName/CHeepCore-HandSolder/blob/main/Images/Screenshot%202025-08-07%20172010.png" alt="CHeepCore front" width="400" height="300" />
 
 ---
 
@@ -46,7 +46,7 @@ A minimalist, ultra-low-cost RISC-V development board based on the CH32V003 seri
    - Default: 3.3 V  
    - For 5 V operation, cut the 3.3 V jumper (bottom side) and bridge the center pad to 5 V  
 
-<img src="https://github.com/VollstaendigerName/CHeepCore/blob/main/Images/Screenshot%202025-08-07%20172043.png" alt="CHeepCore back" width="400" height="300" />
+<img src="https://github.com/VollstaendigerName/CHeepCore-HandSolder/blob/main/Images/Screenshot%202025-08-07%20172043.png" alt="CHeepCore back" width="400" height="300" />
 
 ---
 
