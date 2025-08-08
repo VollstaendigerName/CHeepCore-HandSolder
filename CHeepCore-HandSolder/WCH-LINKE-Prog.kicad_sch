@@ -7,7 +7,7 @@
 	(title_block
 		(title "CHeepCore")
 		(date "2025-08-06")
-		(rev "0.0.1b")
+		(rev "0.0.1c")
 		(company "VollständigerName")
 		(comment 1 "github.com/VollstaendigerName")
 		(comment 2 "LICENSE: CC BY-NC 4.0. https://creativecommons.org/licenses/by-nc/4.0")
