@@ -3,9 +3,10 @@ C101,0603,1,100nF,https://www.lcsc.com/product-detail/C108079.html?s_z=n_CC0603K
 "C102, C103",0603,2,22pF,https://www.lcsc.com/product-detail/C105620.html
 "C301, C302",0603,2,1µF,https://www.lcsc.com/product-detail/C15849.html
 "J101, J102",PinSocket_1x10_P2.54mm_Vertical,2,Conn_01x10,
+J103,PinHeader_2x01_P1.00mm_Vertical_SMD,1,USB,
 J201,PinSocket_1x03_P2.54mm_Vertical,1,Conn_01x03,
 J301,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,1,USB_C_Receptacle_USB2.0_16P,https://www.lcsc.com/product-detail/C2765186.html?s_z=n_USB%2520C
 "R301, R302",0603,2,5k1,https://www.lcsc.com/product-detail/C3017721.html
-U101,TSSOP-20_4.4x6.5mm_P0.65mm,1,CH32V003FxPx,
+U101,TSSOP-20_4.4x6.5mm_P0.65mm,1,CH32V003FxPx,https://www.lcsc.com/product-detail/C5187096.html
 U301,TSOT-23_HandSoldering,1,3V3 LDO,https://www.lcsc.com/product-detail/C48678136.html
 Y101,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,1,Crystal_GND24,https://www.lcsc.com/product-detail/C41383243.html?s_z=n_24Mhz
